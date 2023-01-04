@@ -10,6 +10,11 @@ namespace projesst1
     {
         static void Main(string[] args)
         {
+            // sum 
+            int a = 55;
+            int b = 55;
+            int sum = a + b;
+            Console.WriteLine(sum);
         }
     }
 }

@@ -1,1 +1,6 @@
 C:\Users\ELCOT\Desktop\Sample\Sample2\projesst1\projesst1\bin\Debug\projesst1.exe.config
+C:\Users\ELCOT\Desktop\Sample\Sample2\projesst1\projesst1\bin\Debug\projesst1.exe
+C:\Users\ELCOT\Desktop\Sample\Sample2\projesst1\projesst1\bin\Debug\projesst1.pdb
+C:\Users\ELCOT\Desktop\Sample\Sample2\projesst1\projesst1\obj\Debug\projesst1.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Desktop\Sample\Sample2\projesst1\projesst1\obj\Debug\projesst1.exe
+C:\Users\ELCOT\Desktop\Sample\Sample2\projesst1\projesst1\obj\Debug\projesst1.pdb
